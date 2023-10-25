@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICotHC8BKbIR5PDgwyIvSLOh/2tsg6G9aUCqNU09Itkh funnygalty@gmail.com
